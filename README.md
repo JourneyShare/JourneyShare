@@ -1,6 +1,6 @@
 # Hi, I'm JourneyShare 👋
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/ionut-n-b522b5231"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### 💡 About Me
 I am a curiosity-driven problem solver with a background in **Mechatronics and CNC**. I've always been fascinated by the "how" and "why" behind complex systems—whether they are physical machines or digital networks. This lifelong curiosity led me from mechanical engineering to the world of Cybersecurity.
